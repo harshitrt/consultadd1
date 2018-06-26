@@ -1,0 +1,121 @@
+Abstract of contract-
+This INDEPENDENT CONTRACTOR AGREEMENT is entered into by and
+between the company and the client with the help of the sub-contractor.
+This is a contract reagarding providing the data processing and computer consulting services.
+
+WHEREAS, in the course of conduct of its business, SDG has obtained and established confidential
+business information relating to its relationship with Client that is not generally known in the trade and that
+gives SDG an advantage over its competitors who do not know or use the information, the disclosure of
+which would cause SDG to lose competitive advantage in the industry and result in loss of revenue and other
+financial damages;
+NOW, THEREFORE, in consideration of each party’s execution of this Agreement and other good and
+valuable consideration, the receipt and sufficiency of which is hereby acknowledged by each party, and the
+mutual recitals, declarations and representations of the parties as set forth in this Agreement, the parties to
+this Agreement stipulate and agree as follows:
+Important points reagrding the services-
+
+
+1.SDG hereby engages Subcontractor to provide services to Client relating to its operations
+when requested to do so by Client. Subcontractor agrees to provide such services as either Client or SDG
+may, from time to time, require.
+2.The Initial Term of this Agreement is __12__ months from the date of its execution.
+Following the Initial Term, this Agreement shall remain in force from month to month (the “Extended
+Term”). Either party may terminate this Agreement by giving 2 weeks written notice to the other party at
+any time during the Initial Term or the Extended Term of the Agreement. Upon signing of this agreement, it
+is Subcontractor responsibility that the selected resource will start the position at the client site on the
+agreed date and time.
+3.In consideration of Subcontractor’s service hereunder, Subcontractor shall invoice SDG on a
+Monthly Basis for services rendered to Client or on Client’s behalf based on an hourly rate of $59 per hour,
+for Ms. Anusha Pandeti, provided such services are acceptable to and approved by Client. Payment of these
+invoices from SunPlus Data Group will be on a net 30 days for all approved timesheets. SDG shall not be
+liable for any payments to Subcontractor in the event Client fails or refuses to make payment to SDG based
+on Subcontractors performance. SDG will then provide proper documentation to Subcontractor indicating
+the candidate’s performance from the Client.
+4.(a) Subcontractor shall not commence work under this Agreement until it has obtained all
+insurance required under this paragraph and certificates showing proof of such insurance have been
+approved by SDG and/or Client. If coverage on said insurance is to expire prior to completion of all terms of
+this Agreement, Subcontractor shall furnish a certificate of insurance evidencing renewal of such coverage to
+SDG.
+
+(b) Subcontractor shall obtain and maintain, during the term of this Agreement, worker’s
+compensation insurance as required by law with an All States endorsement, and employer’s liability in the
+amount of $100,000.00 per occurrence.
+
+(c) Subcontractor shall obtain and maintain, during the term of this Agreement,
+comprehensive general liability insurance underwritten by a company satisfactory to SDG, with coverage of
+at least $1,000,000 combined single limit. Said coverage is to be endorsed to include contractual liability,
+and broad form property damage.
+
+(a) In order that SDG shall receive and be able to maintain the benefit of the goodwill,
+trade secrets and confidential information SDG has developed in its relationship with Subcontractor, and in
+order to protect same and SDG’s legitimate business interests, Subcontractor agrees that, both during the
+Initial Term and the Extended Term of this Agreement, and for twelve (12) months after the termination of
+this Agreement, it will not place its personnel directly with Client, or otherwise perform computer consulting
+services for Client except through SDG. Subcontractor further agrees that it will require any of its employees
+assigned to Client to sign a non-competition agreement in which such employees agree not to be employed
+by or provide services for, directly or indirectly, Client for a period of twelve (12) months following
+termination of their employment with Subcontractor. SunPlus and its clients also agree that it will not
+solicit any employees of the Subcontractor for the term of this agreement and a period of 12 months after
+that. Violation of this paragraph 7 constitutes a material breach of the Agreement.
+
+Subcontractor agrees that if it is held by any court of competent jurisdiction to be in
+violation, breach or non-performance of any of the terms of this Agreement, it shall pay all costs of such
+action or suit, including reasonable attorneys’ fees.
+
+The representations, warranties and indemnities provided herein shall survive the
+termination of this Agreement.
+The parties specifically agree that no persons, other than the parties hereto, have any
+interest in this Agreement and specifically agree that no persons shall be considered as or intended to be
+third party beneficiaries or shall be entitled to rely upon the provisions of this Agreement for any purpose.
+
+This Agreement shall be binding upon and inure to the benefit of the successors, assigns and
+personal representatives or heirs of the respective parties.
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date and year
+written below.
+
+SUBCONTRACTOR: __________________ SUNPLUS DATA GROUP, INC.
+
+By: By:
+(Authorized signature) (Authorized signature)
+Ravi Mekala, Branch Manager _______
+(Type or Print Name / Title) (Type or Print Name / Title)
+Date: _____________________________ Date: ____________________________
+
+ConsultAdd Inc.
+
+
+
+
+
+
+This Schedule is issued pursuant to the Consulting Service Master Agreement identified by the number
+above (the "Agreement"), by and between _ConsultADD, Inc. (SUBCONRACTOR), and SunPlus Data
+Group, Inc., reference to which is hereby made.
+This schedule is effective from September 11th, 2017 and continuing until July 1st 2018 or until terminated
+under any application provision of the Agreement. The term of the agreement may extend for an additional
+12 months with all parties agreeing to it. Any term not specifically defined herein shall have the meaning
+ascribed to it in the Agreement. Upon execution of this Schedule by the parties hereto, this Schedule shall
+incorporate, without further reference, the terms and provisions of the Agreement unless otherwise
+modified herein.
+DESIGNATED LIAISON
+
+SUNPLUS DATA GROUP, INC.
+CONSULTANT:
+Human Resource Hourly Rate Start Date End Date Estimated
+Hours
+
+CLIENT:
+LOCATION:
+MANAGER: Ms. Kris Splieth
+IN WITNESS WHEREOF, the parties hereto, by their respective duly authorized officers or representatives
+have executed this Schedule, effective as of the year and date first above written.
+By: ____________________________________________ DATE: __________________
+
+Manager – SunPlus Data Group, Inc
+
+SUB CONTRACTOR:
+By (Sign): __________________________________________ DATE: __________________
+SUBCONTRACTOR: _____________________________________
